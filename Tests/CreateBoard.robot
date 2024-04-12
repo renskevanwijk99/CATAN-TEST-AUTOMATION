@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation                       These test suites test the Catan Board Generator: board generation, handling invalid input, handling special rules and user interface 
+Documentation                       These test suites test the Catan Board Generator: board generation, handling invalid input, handling special rules and user interface.
 Resource                            ../Resources/Common.robot
 Resource                            ../Resources/CreateARandomBoard.robot
 Test Setup                          Begin Web Test
