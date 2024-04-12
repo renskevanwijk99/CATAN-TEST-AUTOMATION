@@ -6,7 +6,7 @@ Test Setup                          Begin Web Test
 Test Teardown                       End Web Test
 
 # Run the script: 
-# robot -d results tests/CreateBoard.robot
+# robot -d results tests/CreateBoard.robot 
 
 *** Variables ***
 
