@@ -5,7 +5,7 @@ Resource                            ../Resources/CreateARandomBoard.robot
 Test Setup                          Begin Web Test
 Test Teardown                       End Web Test
 
-# Run the script with command:
+# Run the script with command, result folder will be made automatically:
 # robot -d results tests/CreateBoard.robot 
 
 *** Variables ***
